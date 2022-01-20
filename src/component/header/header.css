@@ -1,0 +1,19 @@
+.nav-item {
+  cursor: pointer;
+}
+.fix {
+  position: fixed;
+  top: 0;
+
+  background: linear-gradient(to right, #ffc, #acd);
+}
+.nav-link {
+  color: black !important;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.active {
+  border-bottom: 2px solid greenyellow;
+  filter: drop-shadow(1px 5px 10px);
+}
