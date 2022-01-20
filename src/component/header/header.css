@@ -5,7 +5,7 @@
   position: fixed;
   top: 0;
 
-  background: linear-gradient(to right, #ffc, #acd);
+  background: linear-gradient(to right, rgb(128, 226, 243), rgb(76, 236, 116));
 }
 .nav-link {
   color: black !important;
