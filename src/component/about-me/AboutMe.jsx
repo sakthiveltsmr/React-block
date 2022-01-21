@@ -17,14 +17,14 @@ export const AboutMe = () => {
         {/* </div> */}
         <div className="row details">
           <div className="col-12 col-sm-12 col-md-12 col-lg-12 text-start p-4 mt-2">
-            <h3 className="text-start text-mute">
+            <h3 className="text-start text-warning">
               Name:
               <span className="text-info text-light">Sakthivel</span>
             </h3>
-            <h3 className="text-start text-mute">
+            <h3 className="text-start text-warning">
               Education: <span className="text-info text-light">BE CSE</span>
             </h3>
-            <h3 className="text-start text-mute ">
+            <h3 className="text-start text-warning ">
               Current:
               <span className="text-info text-light">Web developer !</span>
             </h3>

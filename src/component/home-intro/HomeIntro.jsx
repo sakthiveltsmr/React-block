@@ -4,7 +4,7 @@ import { BsFillBootstrapFill } from "react-icons/bs";
 import { FaReact } from "react-icons/fa";
 import { SiReactrouter } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
-import CodeImg from "../../assets/code.png";
+import CodeImg from "../../assets/code.jpg";
 
 export const HomeIntro = () => {
   return (

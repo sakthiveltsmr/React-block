@@ -16,11 +16,14 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  height: 97.7vh;
+  height: 93vh;
   width: 100%;
+  /* background: wheat; */
   background: url(../../assets/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  overflow: hidden;
+  margin-top: 2rem;
 }
 .wrapper {
   display: flex;
@@ -30,6 +33,8 @@
   justify-content: space-evenly;
   backdrop-filter: blur(8px);
   height: 80vh;
+  background: url(../../assets/bg.jpg);
+  background-size: cover;
   background: transparent;
   border-radius: 10px;
   overflow: hidden;
