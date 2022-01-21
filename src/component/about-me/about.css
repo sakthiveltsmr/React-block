@@ -1,0 +1,42 @@
+.profo {
+  height: 200px;
+  width: 200px;
+  margin-top: 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  align-items: center;
+  box-shadow: rgba(53, 53, 110, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.first {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 97.7vh;
+  width: 100%;
+  background: url(../../assets/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  justify-content: space-evenly;
+  backdrop-filter: blur(8px);
+  height: 80vh;
+  background: transparent;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-left: 50%;
+  box-shadow: rgba(209, 233, 102, 0.25) 0px 6px 12px -2px,
+    rgba(211, 209, 126, 0.3) 0px 3px 7px -3px;
+}
+.details {
+  filter: drop-shadow(5px 10px 10px #000);
+}
